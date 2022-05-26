@@ -1,6 +1,6 @@
 # cmuPathfinding
 
-Pathfinding was a project created in around 24 hours during the CMU 15-112 Hackathon.
+Pathfinding was a project created in about 24 hours during the CMU 15-112 Hackathon.
 
 Our project has 2 parts: 
 1. a pathfinding algorithm that finds the fastest path between 2 points on campus
@@ -8,7 +8,8 @@ Our project has 2 parts:
 
 cmu_112_graphics needs to be installed to run the program.
 To run the pathfinder algorithm, simply run Pathfinder.py.
-cmunodes.txt will contain all of the nodes necessary to path through cmu campus. If you want
-to use cmu nodes for cmunodes.txt, please rename cmunodes.txt to nodes.txt.
+cmunodes.txt contains all of the nodes necessary to path through cmu campus. If you want
+to use cmu nodes for cmunodes.txt, please rename cmunodes.txt to nodes.txt. We are unable to take in
+another file as an input due to the restrictions of the cmu_112_graphics and the inputs that it can take
 If you would like to create your own nodes and nodes.txt already exists, either rename nodes.txt
 to another name or delete nodes txt before running the factory.py file.
